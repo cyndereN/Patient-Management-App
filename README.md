@@ -1,2 +1,10 @@
 # PatientManagementApp
-An app developed using JAVA Swing to view, sort, filter or analyze data. 
+An app developed using JAVA Swing to display data. 
+
+Develop Column, DataFrame data structure to store data.
+
+Design a neat GUI.
+
+Use MVC pattern.
+
+User can choose column to view, sort, filter, and see stats data of patients.
